@@ -1,4 +1,4 @@
-👨‍💻 About Me
+# 👨‍💻 About Me
 I build distributed, production-grade systems — not just web apps.
 Currently focused on cloud-native backend engineering: event-driven architectures, container orchestration, and building systems that survive real-world failure conditions.
 
@@ -9,7 +9,7 @@ Currently focused on cloud-native backend engineering: event-driven architecture
 💡 Ask me about: Kubernetes, Docker, Go, Node.js, Redis, RabbitMQ, Distributed Systems
 
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 Sentinel-SRE — Distributed Uptime Monitor
 
 A production-grade distributed system to monitor website health at scale
@@ -34,6 +34,6 @@ Live monitoring via Prometheus + cAdvisor + Grafana dashboards
 
 React Node.js MongoDB Docker Kubernetes Prometheus Grafana cAdvisor
 
-🏆 Achievement
+# 🏆 Achievement
 
 NSCT'26 — Top 3.3% Nationally — Ranked 96.7th percentile in the National Skill Competency Test by HEC, PSEB & P@SHA, benchmarking industry-ready engineering talent across Pakistan.
