@@ -64,7 +64,7 @@ Observability Prometheus · Grafana · k6
 
 ## Currently
 
-- Contributing to open source — [SigNoz](https://github.com/SigNoz/signoz)
+- Contributing to open source - [SigNoz](https://github.com/SigNoz/signoz)
   observability platform (React · Go)
 - Deepening Kubernetes operator patterns and Go concurrency internals
 
