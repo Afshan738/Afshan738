@@ -1,6 +1,6 @@
 # Afshan Qasim
 
-I build distributed, production-grade systems — not just web apps.
+I build distributed, production-grade systems - not just web apps.
 Currently focused on cloud-native backend engineering: event-driven
 architectures, container orchestration, and systems that survive
 real-world failure conditions.
