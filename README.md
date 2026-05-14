@@ -5,7 +5,7 @@ Currently focused on cloud-native backend engineering: event-driven
 architectures, container orchestration, and systems that survive
 real-world failure conditions.
 
-📍 Islamabad, Pakistan · BS-IT @ University of Chakwal (Jul 2026)
+📍 Islamabad, Pakistan · BS-IT @ University of Chakwal (Jun 2026)
 🏅 **NSCT'26 — Top 3.3% Nationally** · Ranked 96.7th percentile in the
 National Skill Competency Test by HEC, PSEB & P@SHA
 
