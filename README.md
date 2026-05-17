@@ -9,7 +9,6 @@ real-world failure conditions.
 🏅 **NSCT'26 — Top 3.3% Nationally** · Ranked 96.7th percentile in the
 National Skill Competency Test by HEC, PSEB & P@SHA
 
----
 
 ## Projects
 
@@ -24,7 +23,7 @@ Production-grade distributed system monitoring website health at scale.
 
 `Go` `Node.js` `RabbitMQ` `Redis` `PostgreSQL` `Prometheus` `Grafana` `Docker` `k6`
 
----
+
 
 ### [Link Vault](https://github.com/Afshan738/link-vault) · Kubernetes-Orchestrated Asset Manager
 
@@ -37,7 +36,7 @@ DevOps-first MERN application built for production-grade Kubernetes deployment.
 
 `React` `Node.js` `MongoDB` `Docker` `Kubernetes` `Prometheus` `Grafana` `cAdvisor`
 
----
+
 
 ## Stack
 
@@ -51,7 +50,7 @@ Infra         Docker · Kubernetes · GitHub Actions
 Observability Prometheus · Grafana · k6
 ```
 
----
+
 
 ## Community & Recognition
 
@@ -60,7 +59,7 @@ Observability Prometheus · Grafana · k6
 - **Dev Connect Hub** — Founded a 100+ member developer community,
   university-recognized, Islamabad
 
----
+
 
 ## Currently
 
@@ -68,7 +67,7 @@ Observability Prometheus · Grafana · k6
   observability platform (React · Go)
 - Deepening Kubernetes operator patterns and Go concurrency internals
 
----
+
 
 [afshanqasim349@gmail.com](mailto:afshanqasim349@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/afshan-qasim-998917300)
