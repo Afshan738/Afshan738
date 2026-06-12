@@ -53,12 +53,22 @@ Observability Prometheus · Grafana · k6
 
 
 ## Community & Recognition
+- **Open Source**
+   SigNoz contributor — feat(components): add Skeleton (PR #230)
+   +712 lines · 18 review comments · merged May 2026
+   github.com/SigNoz/components/pull/230
 
 - **NSCT'26** — Top 3.3% nationally (96.7th percentile) — National Skill
   Competency Test by HEC, PSEB & P@SHA
 - **Dev Connect Hub** — Founded a 100+ member developer community,
   university-recognized, Islamabad
 
+## Writing:
+**858x Faster: What I Learned Optimising 500,000 PostgreSQL Rows**
+https://www.linkedin.com/posts/afshan-qasim-998917300_postgresql-databaseperformance-queryoptimization-share-7463599947624611841-L436/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE0FscQB0wnD66Ar3MdwCW-l06nUW95fayw
+
+**Your index is not a fix. It is a ticking clock.**
+https://www.linkedin.com/posts/afshan-qasim-998917300_postgresql-backendengineering-sre-share-7464246699239239680-D-1G/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE0FscQB0wnD66Ar3MdwCW-l06nUW95fayw
 
 
 ## Currently
