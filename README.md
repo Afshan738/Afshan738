@@ -23,7 +23,14 @@ Production-grade distributed system monitoring website health at scale.
 
 `Go` `Node.js` `RabbitMQ` `Redis` `PostgreSQL` `Prometheus` `Grafana` `Docker` `k6`
 
+### [Pulse_Queue](https://github.com/Afshan738/pulse-Queue) ·  production-grade idempotent job queue built with Node.js, Express, PostgreSQL, and Redis.
 
+- **Exactly-once processing** — PostgreSQL advisory locks let workers claim jobs non-blockingly, so no two workers ever process the same job concurrently
+- **Request-level idempotency** — SHA-256 request fingerprinting + 24-hour Redis TTL cache returns the original response to retried requests without re-executing side effects
+- **Self-healing job recovery** — a stale `updated_at` on a job stuck in "processing" signals a crashed worker, and the scheduler resets it to pending automatically
+- **Scalable pagination** — cursor-based `(created_at, id)` navigation backed by a matching composite index keeps query performance constant regardless of page depth
+
+`Node.js` `Express` `PostgreSQL` `Redis` `Docker` `worker_threads` `pg_try_advisory_lock`
 
 ### [Link Vault](https://github.com/Afshan738/link-vault) · Kubernetes-Orchestrated Asset Manager
 
