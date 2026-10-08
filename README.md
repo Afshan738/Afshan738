@@ -5,7 +5,7 @@
   a payment processor simulation that survives 132 injected crashes with a balanced ledger.
 </p>
 <p align="center">
- Technical content Channel <a href="https://www.instagram.com/not.your.average.backend"><b> Not your average Backend</b></a>
+ Technical content Channel <a href="https://www.instagram.com/not.your.average.backend"><b> Not-your-average-Backend</b></a>
 </p>
 
  
