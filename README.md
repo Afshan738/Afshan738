@@ -1,4 +1,4 @@
-                         <h1 align="center"><b>Syntax doesn't make a good engineer.<br>Architectural thinking does.</b></h1>
+  <h1 align="center"><b>Syntax doesn't make a good engineer.<br>Architectural thinking does.</b></h1>
 
 <p align="center">
   Proof, not opinion: <a href="https://github.com/Afshan738/payments-under-failure"><b>payments-under-failure</b></a>,
