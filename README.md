@@ -5,6 +5,11 @@
   a payment processor simulation that survives 132 injected crashes with a balanced ledger.
 </p>
 <p align="center">
+  <a href="https://github.com/Afshan738/Sentinel-SRE"><b>Sentinel-SRE</b></a>,
+  a distributed uptime monitor built around failure recovery, fast status lookups, and end-to-end observability.
+</p>
+
+<p align="center">
  Technical content Channel <a href="https://www.instagram.com/not.your.average.backend"><b> Not-your-average-Backend</b></a>
 </p>
 
