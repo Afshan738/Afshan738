@@ -1,3 +1,10 @@
+                         <h1 align="center"><b>Syntax doesn't make a good engineer.<br>Architectural thinking does.</b></h1>
+
+<p align="center">
+  Proof, not opinion: <a href="https://github.com/Afshan738/payments-under-failure"><b>payments-under-failure</b></a>,
+  a payment processor simulation that survives 132 injected crashes with a balanced ledger.
+</p>
+
 # Afshan Qasim
 
 I build distributed, production-grade systems, not just web apps.
