@@ -8,6 +8,10 @@
   <a href="https://github.com/Afshan738/Sentinel-SRE"><b>Sentinel-SRE</b></a>,
   a distributed uptime monitor built around failure recovery, fast status lookups, and end-to-end observability.
 </p>
+<p align="center">
+  <a href="https://github.com/Afshan738/pulse-Queue"><b>Pulse_Queue</b></a>,
+  an idempotent job queue built around safe concurrency, request-level idempotency, automatic job recovery, and scalable pagination.
+</p>
 
 <p align="center">
  Technical content Channel <a href="https://www.instagram.com/not.your.average.backend"><b> Not-your-average-Backend</b></a>
@@ -40,7 +44,7 @@ Production-grade distributed system monitoring website health at scale.
 
 `Go` `Node.js` `RabbitMQ` `Redis` `PostgreSQL` `Prometheus` `Grafana` `Docker` `k6`
 
-### [Pulse_Queue](https://github.com/Afshan738/pulse-Queue) ·  production-grade idempotent job queue built with Node.js, Express, PostgreSQL, and Redis.
+### [Pulse_Queue](https://github.com/Afshan738/pulse-Queue) ·  An idempotent job queue built with Node.js, Express, PostgreSQL, and Redis.
 
 - **Exactly-once processing** : PostgreSQL advisory locks let workers claim jobs non-blockingly, so no two workers ever process the same job concurrently
 - **Request-level idempotency** : SHA-256 request fingerprinting + 24-hour Redis TTL cache returns the original response to retried requests without re-executing side effects
