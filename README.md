@@ -17,7 +17,7 @@
  Technical content Channel <a href="https://www.instagram.com/not.your.average.backend"><b> Not-your-average-Backend</b></a>
 </p>
 
- 
+ <h1 align="center"><b>Good code can be small, but it must be written seriously</b></h1>
 
 # Afshan Qasim
 
